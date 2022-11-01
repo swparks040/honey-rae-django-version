@@ -1,6 +1,7 @@
 import React from "react"
 import "./Tickets.css"
 
+
 export const TicketFooter = ({ ticket }) => {
 
     const ticketStatus = () => {
